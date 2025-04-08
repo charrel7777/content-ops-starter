@@ -7,7 +7,9 @@ sections:
       text: TIKA PAY
       color: text-dark
       type: TitleBlock
-    subtitle: Multipliez vos investissements en toute simplicité
+    subtitle: >-
+      Multipliez vos investissements en toute simplicité! Investissez
+      aujourd’hui, gagnez chaque jour pendant 10 jours !
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
