@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'Tika Pay, simple, pro et rassurant :'
       color: text-primary
       type: Badge
     elementId: ''
