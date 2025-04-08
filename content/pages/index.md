@@ -17,15 +17,16 @@ sections:
       Tika Pay est une plateforme d’investissement innovante qui vous permet de
       rentabiliser votre capital en toute simplicité. Investissez un montant
       compris entre 30$ et 5000$, et après 24 heures d’attente, vous commencerez
-      à recevoir chaque jour, pendant 10 jours, exactement le montant que vous
-      avez investi.
+      à recevoir chaque jour, pendant 10 jours, exactement 1/2, soit la moitié
+      du montant que vous avez investi.
 
 
-      Exemple : Investissez 100$ aujourd’hui, recevez 100$ par jour pendant 10
-      jours, soit 1000$ au total.
+      Exemple : Investissez 100$ aujourd’hui, recevez 50$ par jour pendant 10
+      jours, soit 500$ au total.
 
 
-      Simple. Rapide. Transparent.
+      Simple. Rapide.
+      Transparent.![](/images/file_0000000067385243acc6095f7031573d_conversation_id=67f5a0e7-31fc-800c-ae81-42203a8fc713\&message_id=297a04e1-b6a2-4338-a501-77b19ccfb0ad.webp)
     actions:
       - label: See Tutorials
         altText: ''
