@@ -11,9 +11,21 @@ sections:
       Multipliez vos investissements en toute simplicité! Investissez
       aujourd’hui, gagnez chaque jour pendant 10 jours !
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Tika Pay – Investissez aujourd’hui, récoltez chaque jour !
+
+
+      Tika Pay est une plateforme d’investissement innovante qui vous permet de
+      rentabiliser votre capital en toute simplicité. Investissez un montant
+      compris entre 30$ et 5000$, et après 24 heures d’attente, vous commencerez
+      à recevoir chaque jour, pendant 10 jours, exactement le montant que vous
+      avez investi.
+
+
+      Exemple : Investissez 100$ aujourd’hui, recevez 100$ par jour pendant 10
+      jours, soit 1000$ au total.
+
+
+      Simple. Rapide. Transparent.
     actions:
       - label: Get started
         altText: ''
