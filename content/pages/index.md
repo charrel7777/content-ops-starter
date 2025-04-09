@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: >-
       Multipliez vos investissements en toute simplicité! Investissez
-      aujourd’hui, gagnez chaque jour pendant 10 jours !
+      aujourd’hui, et gagnez chaque jour pendant 10 jours !
     text: >
       Tika Pay – Investissez aujourd’hui, récoltez chaque jour !
 
