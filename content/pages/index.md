@@ -56,6 +56,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: flex-end
   - type: CarouselSection
     subtitle: This is a subtitle
     items:
