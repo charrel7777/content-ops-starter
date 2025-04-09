@@ -28,7 +28,7 @@ sections:
       Simple. Rapide.
       Transparent.![](/images/file_0000000067385243acc6095f7031573d_conversation_id=67f5a0e7-31fc-800c-ae81-42203a8fc713\&message_id=297a04e1-b6a2-4338-a501-77b19ccfb0ad.webp)
     actions:
-      - label: See Tutorials
+      - label: COMMENCER
         altText: ''
         url: /
         showIcon: true
