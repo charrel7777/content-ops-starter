@@ -57,6 +57,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: flex-end
+      subtitle:
+        fontWeight: 700
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
