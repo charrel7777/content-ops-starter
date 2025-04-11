@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /
+slug: Investissement Pour Un Meilleur Future
 sections:
   - type: GenericSection
     title:
